@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50ch;
+    margin: 50px 200px 30px 200px;
+    background-color: #8c58cfb4;
+    border-radius: 40px;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+.btn {
+    padding: 12px;
+    margin: 5px;
+    font-size: larger;
+    background-color: #631ac27c;
+    color: white;
+}
+
+
+p {
+    margin: 5px;
+    font-size: larger;
+}
