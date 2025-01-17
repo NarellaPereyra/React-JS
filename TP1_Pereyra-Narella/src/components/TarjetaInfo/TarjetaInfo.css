@@ -1,0 +1,12 @@
+.tarjeta-info{
+    background-color: #3997a198;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    border-radius: 20px;
+  }
+  
+  .tarjeta-info img {
+    border-radius: 10%;
+    width: 150px;
+  }
