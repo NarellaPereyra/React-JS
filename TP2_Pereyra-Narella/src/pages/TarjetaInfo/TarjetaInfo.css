@@ -1,0 +1,60 @@
+.tarjeta-info {
+  background-color: #8942428e;
+  padding: 15px;
+  width: 370px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.tarjeta-info img {
+  border-radius: 10px;
+  width: 195px;
+  border: 15px double #894242;
+}
+
+.titulo {
+  font-family: italic;
+  font-size: x-large;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: #894242;
+  border-radius: 10px;
+}
+
+.precio {
+  font-size: large;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: #894242;
+  border-radius: 70%;
+}
+
+.descripcion {
+  font-size: medium;
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+button {
+  background-color: #894242;
+  color: #ebd4cc;
+  padding: 12px;
+  border: none;
+  border-radius: 70%;
+}
+
+.ver-todo {
+  text-decoration: none;
+  color: #ebd4eb;
+}
+
+.btn-comprar {
+  background-color: #f5918f;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
